@@ -50,7 +50,9 @@ It's a project configuration template — a folder of files you install once int
 
 ---
 
-## 🚀 Install in one command
+## 🚀 Get started in two steps
+
+**Step 1 — Install the template into your repo**
 
 ```bash
 # Claude Code
@@ -63,7 +65,18 @@ bash <(curl -fsSL https://raw.githubusercontent.com/brain-bootstrap/copilot-brai
 bash <(curl -fsSL https://raw.githubusercontent.com/brain-bootstrap/codex-brain-bootstrap/main/install.sh) /path/to/your-repo
 ```
 
-The installer detects your stack, auto-configures everything, and validates the result. Takes about 5 minutes.
+**Step 2 — Let the AI configure itself**
+
+Open your AI assistant in the repo and run the bootstrap command:
+
+```
+/bootstrap          ← Claude Code & GitHub Copilot
+$bootstrap          ← OpenAI Codex
+```
+
+The bootstrap command runs the discovery engine, auto-detects your entire stack, fills all placeholders, and has the AI write architecture docs and domain knowledge specific to your codebase. **Fully automated — takes about 5 minutes.**
+
+That's it. Your AI assistant now knows your project.
 
 ---
 
