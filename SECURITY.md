@@ -2,11 +2,11 @@
 
 ## Supported versions
 
-| Repo | Supported version |
-| :--- | :--- |
+| Repo                        | Supported version |
+| :-------------------------- | :---------------- |
 | claude-code-brain-bootstrap | `v1.0.0` (latest) |
-| copilot-brain-bootstrap | `v1.0.0` (latest) |
-| codex-brain-bootstrap | `v1.1.0` (latest) |
+| copilot-brain-bootstrap     | `v1.0.0` (latest) |
+| codex-brain-bootstrap       | `v1.1.0` (latest) |
 
 Only the latest stable release of each repo receives security fixes.
 
@@ -17,6 +17,7 @@ Only the latest stable release of each repo receives security fixes.
 Email **security@brain-bootstrap.dev** (or open a [private security advisory](https://github.com/brain-bootstrap/claude-code-brain-bootstrap/security/advisories/new) on the relevant repo).
 
 Include:
+
 - Which repo and version is affected
 - A description of the vulnerability and its impact
 - Steps to reproduce (if applicable)

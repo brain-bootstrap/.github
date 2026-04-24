@@ -6,14 +6,14 @@ Brain Bootstrap is a universal project template — all contributions must remai
 
 ## What you can contribute
 
-| Area | Examples |
-| :--- | :--- |
-| 📚 Documentation | Fix a typo, improve clarity, add a worked example |
-| 🔍 Stack detection | New language, framework, or package manager in `discover.sh` |
-| 🪝 Lifecycle hooks | New safety patterns or quality gates |
-| ⚡ Commands / Prompts | New workflow for slash commands or prompt files |
-| 🤖 Skills / Agents | New AI skill or specialist agent |
-| 🐛 Bug fixes | Something broken? Fix it |
+| Area                  | Examples                                                     |
+| :-------------------- | :----------------------------------------------------------- |
+| 📚 Documentation      | Fix a typo, improve clarity, add a worked example            |
+| 🔍 Stack detection    | New language, framework, or package manager in `discover.sh` |
+| 🪝 Lifecycle hooks    | New safety patterns or quality gates                         |
+| ⚡ Commands / Prompts | New workflow for slash commands or prompt files              |
+| 🤖 Skills / Agents    | New AI skill or specialist agent                             |
+| 🐛 Bug fixes          | Something broken? Fix it                                     |
 
 ## Where to contribute
 

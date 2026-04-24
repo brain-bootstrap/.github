@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/ᗺB-Brain%20Bootstrap-6B21A8?style=for-the-badge&labelColor=1e1b4b" alt="ᗺB Brain Bootstrap" />
+  <img src="https://raw.githubusercontent.com/brain-bootstrap/.github/main/profile/brain-bootstrap-logo.svg" alt="Brain Bootstrap" width="480" />
 </p>
-
-<h1 align="center">ᗺB Brain Bootstrap</h1>
 <p align="center"><em>Your AI assistant is brilliant. It just forgets everything between sessions.<br><strong>Brain Bootstrap fixes that — permanently.</strong></em></p>
 
 <p align="center">
@@ -31,11 +29,11 @@ It's a project configuration template — a folder of files you install once int
 
 ## 🤖 Pick your tool
 
-| Tool | Repo | What you get |
-| :--- | :--- | :--- |
-| **Claude Code** | [claude-code-brain-bootstrap](https://github.com/brain-bootstrap/claude-code-brain-bootstrap) | 31 slash commands · 18 skills · 16 hooks · 5 subagents |
-| **GitHub Copilot** | [copilot-brain-bootstrap](https://github.com/brain-bootstrap/copilot-brain-bootstrap) | 38 prompt files · 18 skills · 7 hooks · 5 agents |
-| **OpenAI Codex** | [codex-brain-bootstrap](https://github.com/brain-bootstrap/codex-brain-bootstrap) | 48 skills · 10 hooks · 5 subagents |
+| Tool               | Repo                                                                                          | What you get                                           |
+| :----------------- | :-------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| **Claude Code**    | [claude-code-brain-bootstrap](https://github.com/brain-bootstrap/claude-code-brain-bootstrap) | 31 slash commands · 18 skills · 16 hooks · 5 subagents |
+| **GitHub Copilot** | [copilot-brain-bootstrap](https://github.com/brain-bootstrap/copilot-brain-bootstrap)         | 38 prompt files · 18 skills · 7 hooks · 5 agents       |
+| **OpenAI Codex**   | [codex-brain-bootstrap](https://github.com/brain-bootstrap/codex-brain-bootstrap)             | 48 skills · 10 hooks · 5 subagents                     |
 
 > All three share the same knowledge layer — write your conventions once, every tool benefits.
 
@@ -43,12 +41,12 @@ It's a project configuration template — a folder of files you install once int
 
 ## ✨ What actually changes
 
-| Before Brain Bootstrap | After |
-| :--- | :--- |
-| Explain your stack every session | Explained once, remembered forever |
-| AI ignores your rules | Rules enforced by hooks before execution |
+| Before Brain Bootstrap                       | After                                                        |
+| :------------------------------------------- | :----------------------------------------------------------- |
+| Explain your stack every session             | Explained once, remembered forever                           |
+| AI ignores your rules                        | Rules enforced by hooks before execution                     |
 | Docs drift, context floods, PRs break things | Docs stay current, context is managed, blast radius is known |
-| You babysit the AI | The AI runs itself |
+| You babysit the AI                           | The AI runs itself                                           |
 
 ---
 
