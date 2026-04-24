@@ -56,13 +56,19 @@ It's a project configuration template — a folder of files you install once int
 
 ```bash
 # Claude Code
-bash <(curl -fsSL https://raw.githubusercontent.com/brain-bootstrap/claude-code-brain-bootstrap/main/install.sh) /path/to/your-repo
+git clone https://github.com/brain-bootstrap/claude-code-brain-bootstrap.git /tmp/brain
+bash /tmp/brain/install.sh /path/to/your-repo
+rm -rf /tmp/brain
 
 # GitHub Copilot
-bash <(curl -fsSL https://raw.githubusercontent.com/brain-bootstrap/copilot-brain-bootstrap/main/install.sh) /path/to/your-repo
+git clone https://github.com/brain-bootstrap/copilot-brain-bootstrap.git /tmp/copilot-brain
+bash /tmp/copilot-brain/install.sh /path/to/your-repo
+rm -rf /tmp/copilot-brain
 
 # OpenAI Codex
-bash <(curl -fsSL https://raw.githubusercontent.com/brain-bootstrap/codex-brain-bootstrap/main/install.sh) /path/to/your-repo
+git clone https://github.com/brain-bootstrap/codex-brain-bootstrap.git /tmp/codex-brain
+bash /tmp/codex-brain/install.sh /path/to/your-repo
+rm -rf /tmp/codex-brain
 ```
 
 **Step 2 — Let the AI configure itself**
