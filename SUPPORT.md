@@ -13,8 +13,4 @@
 
 1. Run `bash validate.sh` in your repo — it catches most configuration problems
 2. Check the [FAQ](https://github.com/brain-bootstrap/claude-code-brain-bootstrap#-faq) in the relevant README
-3. Search existing issues — your question may already be answered
 
-## Response time
-
-This is a community-maintained project. We aim to respond to issues within a few days, but cannot guarantee SLAs.
