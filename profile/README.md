@@ -23,7 +23,7 @@ AI coding tools are stateless by design — every session starts blank. So you b
 
 **Brain Bootstrap ends that loop.**
 
-It's a project configuration template — a folder of files you install once into your repo. From that point on, your AI assistant knows your codebase, respects your rules, and carries its knowledge forward permanently. **It learns your way and keeps it.**
+Brain Bootstrap is not another template. It's a behavioral enforcement layer — runtime hooks that block violations before they execute, a persistent knowledge base that survives every session reset, and ready-made workflows for every recurring engineering task. **It learns your way and keeps it.**
 
 ---
 
