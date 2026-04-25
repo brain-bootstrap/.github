@@ -23,7 +23,9 @@ AI coding tools are stateless by design — every session starts blank. So you b
 
 **Brain Bootstrap ends that loop.**
 
-Brain Bootstrap is not another template. It's a behavioral enforcement layer — runtime hooks that block violations before they execute, a persistent knowledge base that survives every session reset, and ready-made workflows for every recurring engineering task. **It learns your way and keeps it.**
+Brain Bootstrap is not another set of instructions to drop in. Run `/bootstrap` once — a discovery engine scans your codebase across 30+ languages, finds your actual build commands, your real test runner, your existing packages, and generates architecture docs and conventions specific to *this* project. Your AI goes into every session knowing your stack, not a generic one.
+
+Then it keeps learning. Every correction becomes a permanent rule. Hooks enforce behavior deterministically — no hoping the AI complies. **The knowledge base grows with your codebase, permanently.**
 
 ---
 
