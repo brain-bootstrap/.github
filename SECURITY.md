@@ -4,9 +4,9 @@
 
 | Repo                        | Supported version |
 | :-------------------------- | :---------------- |
-| claude-code-brain-bootstrap | `v1.0.0` (latest) |
-| copilot-brain-bootstrap     | `v1.0.0` (latest) |
-| codex-brain-bootstrap       | `v1.1.0` (latest) |
+| claude-code-brain-bootstrap | `v1.1.0` (latest) |
+| copilot-brain-bootstrap     | `v1.1.0` (latest) |
+| codex-brain-bootstrap       | `v1.2.0` (latest) |
 
 Only the latest stable release of each repo receives security fixes.
 
