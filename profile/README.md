@@ -15,10 +15,6 @@
 
 ---
 
-You ask your AI to add a feature. It uses the wrong build command. It reinstalls a utility you already have. It edits the config file you told it never to touch.
-
-You correct it. It apologizes. **Next session: same mistakes.**
-
 AI coding tools are stateless by design — every session starts blank. So you become the AI's memory: re-explaining your stack, re-enforcing your rules, re-correcting the same errors. Session after session.
 
 **Brain Bootstrap ends that loop.**
