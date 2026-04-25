@@ -68,8 +68,8 @@ Then it keeps learning. Every correction becomes a permanent rule. Hooks enforce
 
 ```bash
 # Claude Code
-git clone https://github.com/brain-bootstrap/claude-code-brain-bootstrap.git /tmp/brain
-bash /tmp/brain/install.sh /path/to/your-repo
+git clone https://github.com/brain-bootstrap/claude-code-brain-bootstrap.git /tmp/claude-code-brain
+bash /tmp/claude-code-brain/install.sh /path/to/your-repo
 rm -rf /tmp/brain
 
 # GitHub Copilot
