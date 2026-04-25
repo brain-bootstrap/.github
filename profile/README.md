@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/brain-bootstrap/.github/main/profile/brain-bootstrap-logo.svg" alt="Brain Bootstrap" width="480" />
 </p>
-<p align="center"><em>Your AI assistant is brilliant. It just forgets everything between sessions.<br><strong>Brain Bootstrap fixes that — permanently.</strong></em></p>
+<p align="center"><em>Your AI assistant is brilliant. It just resets every session, ignores your conventions, and reinvents your patterns.<br><strong>Brain Bootstrap fixes that — permanently.</strong></em></p>
 
 <p align="center">
   <a href="https://github.com/brain-bootstrap/claude-code-brain-bootstrap"><img src="https://img.shields.io/badge/Claude_Code-Ready-6B21A8?style=flat-square" alt="Claude Code"></a>
@@ -23,7 +23,7 @@ AI coding tools are stateless by design — every session starts blank. So you b
 
 **Brain Bootstrap ends that loop.**
 
-It's a project configuration template — a folder of files you install once into your repo. From that point on, your AI assistant knows your codebase, respects your rules, and carries its knowledge forward permanently. **One correction is the last correction.**
+It's a project configuration template — a folder of files you install once into your repo. From that point on, your AI assistant knows your codebase, respects your rules, and carries its knowledge forward permanently. **It learns your way and keeps it.**
 
 ---
 
@@ -54,9 +54,9 @@ It's a project configuration template — a folder of files you install once int
 
 | Tool               | Repo                                                                                          | What you get                                                                                                                     |
 | :----------------- | :-------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| **Claude Code**    | [claude-code-brain-bootstrap](https://github.com/brain-bootstrap/claude-code-brain-bootstrap) | Full slash-command workflow — 31 `/commands`, 5 subagents for review/research/planning, 16 enforcement hooks, 18 reusable skills |
-| **GitHub Copilot** | [copilot-brain-bootstrap](https://github.com/brain-bootstrap/copilot-brain-bootstrap)         | Chat-native power — 38 `/prompts`, 5 agents, 7 hooks wired into VS Code, 18 skills                                               |
-| **OpenAI Codex**   | [codex-brain-bootstrap](https://github.com/brain-bootstrap/codex-brain-bootstrap)             | Terminal-first depth — 48 skills, 10 lifecycle hooks, 5 subagents, headless-ready                                                |
+| **Claude Code**    | [claude-code-brain-bootstrap](https://github.com/brain-bootstrap/claude-code-brain-bootstrap) | Full slash-command workflow — 31 `/commands`, 5 subagents for review/research/planning, 16 enforcement hooks, 49 reusable skills |
+| **GitHub Copilot** | [copilot-brain-bootstrap](https://github.com/brain-bootstrap/copilot-brain-bootstrap)         | Chat-native power — 38 `/prompts`, 5 agents, 7 hooks wired into VS Code, 49 skills                                               |
+| **OpenAI Codex**   | [codex-brain-bootstrap](https://github.com/brain-bootstrap/codex-brain-bootstrap)             | Terminal-first depth — 49 skills, 10 lifecycle hooks, 5 subagents, headless-ready                                                |
 
 ---
 
