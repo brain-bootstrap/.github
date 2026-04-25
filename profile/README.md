@@ -19,7 +19,7 @@ AI coding tools are stateless by design — every session starts blank. So you b
 
 **Brain Bootstrap ends that loop.**
 
-Brain Bootstrap is not another set of instructions to drop in. Run `/bootstrap` once — a discovery engine scans your codebase across 30+ languages, finds your actual build commands, your real test runner, your existing packages, and generates architecture docs and conventions specific to *this* project. Your AI goes into every session knowing your stack, not a generic one.
+Brain Bootstrap is not another set of instructions to drop in. Run `/bootstrap` once — a discovery engine maps your project across 30+ languages, finds your actual build commands, your real test runner, your existing packages, and generates architecture docs and conventions specific to _this_ project. Your AI goes into every session knowing your stack, not a generic one.
 
 Then it keeps learning. Every correction becomes a permanent rule. Hooks enforce behavior deterministically — no hoping the AI complies. **The knowledge base grows with your codebase, permanently.**
 
@@ -29,7 +29,7 @@ Then it keeps learning. Every correction becomes a permanent rule. Hooks enforce
 
 **1. Install** — Copy the template into your repo with a single command. No cloud, no account, no daemon. Just files in your repository.
 
-**2. Bootstrap** — Run `/bootstrap` once. The discovery engine scans your codebase across 30+ languages and frameworks, auto-detects your stack, and has the AI generate your architecture docs, domain glossary, build conventions, and task templates — specific to _your_ project. Takes about 5 minutes.
+**2. Bootstrap** — Run `/bootstrap` once. The discovery engine maps your project across 30+ languages, auto-detects your stack, and has the AI generate your architecture docs, domain glossary, build conventions, and task templates — specific to _your_ project. Takes about 5 minutes.
 
 **3. Every session after that** — your AI loads your full context automatically. It knows your stack, your rules, and your patterns before you type the first word.
 
